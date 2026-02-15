@@ -148,17 +148,17 @@ The selected model was then used to **generate survival predictions for the unla
 
 ## 📂 Repository Structure
 
-├── ANA_500_Titanic_Micro-Project.ipynb            # Full analysis and modeling workflow/
+├── ANA_500_Titanic_Micro-Project.ipynb/            # Full analysis and modeling workflow
 |
-├── titanic.csv                                    # Dataset/
+├── titanic.csv/                                    # Dataset
 |
-├── submission_xgboost_15_features_importance.csv  # Final test-set predictions/
+├── submission_xgboost_15_features_importance.csv/  # Final test-set predictions
 |
-├── ANA500_Titanic_Micro-Project4.pptx             # Project presentation/
+├── ANA500_Titanic_Micro-Project4.pptx/             # Project presentation
 |
-├── ANA500_Titanic_Micro-Project4.docx             # Written report/
+├── ANA500_Titanic_Micro-Project4.docx/             # Written report
 |
-└── README.md                                      # Project documentation/
+└── README.md                                      # Project documentation
 
 ---
 
