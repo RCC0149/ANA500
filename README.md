@@ -3,12 +3,13 @@ ANA500_Titanic_Micro-Project
 ---
 
 # Titanic Survival Prediction — Advanced Feature Engineering & Model Evaluation
+text---
 
 **Author:** Randall C. Crawford
 **Course:** ANA 500
 **Project Type:** Applied Machine Learning Micro-Project
 **Date:** June 2, 2025
-
+---
 ---
 
 ## 📌 Project Overview
@@ -146,16 +147,12 @@ The selected model was then used to **generate survival predictions for the unla
 ## 📂 Repository Structure
 
 text---
+
 ├── ANA_500_Titanic_Micro-Project.ipynb             # Full analysis and modeling workflow
-
 ├── titanic.csv                                     # Dataset
-
 ├── submission_xgboost_15_features_importance.csv   # Final test-set predictions
-
 ├── ANA500_Titanic_Micro-Project4.pptx              # Project presentation
-
 ├── ANA500_Titanic_Micro-Project4.docx              # Written report
-
 └── README.md                                       # Project documentation
 ---
 ---
