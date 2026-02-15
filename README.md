@@ -145,6 +145,7 @@ The selected model was then used to **generate survival predictions for the unla
 
 ## 📂 Repository Structure
 
+text---
 ├── ANA_500_Titanic_Micro-Project.ipynb             # Full analysis and modeling workflow
 
 ├── titanic.csv                                     # Dataset
@@ -156,7 +157,7 @@ The selected model was then used to **generate survival predictions for the unla
 ├── ANA500_Titanic_Micro-Project4.docx              # Written report
 
 └── README.md                                       # Project documentation
-
+---
 ---
 
 ## 🧪 Technologies & Libraries Used
